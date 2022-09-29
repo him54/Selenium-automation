@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Selenium {
 
     static {
-        System.setProperty("webdriver.chrome.driver", "C:\\Project\\web driver\\chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\hm708\\Desktop\\SELENIUM JAVA\\chromedriver.exe");
 
     }
 

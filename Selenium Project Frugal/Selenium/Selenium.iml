@@ -446,5 +446,57 @@
         <jarDirectory url="jar://C:/Project/web driver/chromedriver_win32.zip!/" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v85-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-chrome-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v101-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-firefox-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-chromium-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v100-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v102-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-api-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-edge-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-http-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-ie-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-java-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-json-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-opera-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-remote-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-safari-driver-4.2.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-support-4.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v100-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v101-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-edge-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v102-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-http-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-firefox-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-chrome-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-devtools-v85-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-api-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-chromium-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-ie-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-json-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-opera-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-remote-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-safari-driver-4.2.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../Selenium Web Driver/selenium-support-4.2.2-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../chromedriver_win32.zip!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="jar://$MODULE_DIR$/../../chromedriver_win32.zip!/" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
